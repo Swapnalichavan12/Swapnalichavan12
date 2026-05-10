@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Swapnali Mohan Chavan</h1>
-<h3 align="center">QA Engineer | Manual Testing | API Testing | MySQL | Postman | Open to Work</h3>
+<h3 align="center">QA Engineer | Manual Testing | API Testing | MySQL | Postman </h3>
 
 <p align="center">
   Detail-oriented Fresher QA Engineer with expertise in Manual Testing, API Testing, Database Validation, and Software Quality Assurance.
