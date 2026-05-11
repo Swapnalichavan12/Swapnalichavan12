@@ -1,4 +1,4 @@
-s<p align="center">
+<p align="center">
   <img src="https://github.com/Swapnalichavan12.png" width="180" height="180" style="border-radius: 50%;" alt="Swapnali Chavan"/>
 </p>
 
